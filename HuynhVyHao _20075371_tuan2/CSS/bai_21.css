@@ -1,0 +1,125 @@
+ p{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.layout{
+    border: solid 1px;
+    background-color: antiquewhite;
+}
+.header1,.footer1,.header2,.footer2,.h3,.footer3,.m3,.h4,.m4,.footer4,.h5,.footer5,.h6,.footer6{
+    height: 30px;
+    text-align: center;
+    border-bottom: solid 1px;
+    margin: 0;
+}
+.section1,.section2,.section3,.section4,.section5,.section6{
+    height: 200px;
+    border-bottom: solid 1px;
+}
+.footer1,.footer2,.footer3,.footer4,.footer5,.footer6{
+border-bottom: solid 0px;
+}
+
+.n,.n3,.n4{
+    float: left;
+    width: 20%;
+    border-right: solid 1px;
+    height: 200px;
+}
+.s,.s3,.s4{
+    float: right;
+    width: 20%;
+    border-left: solid 1px;
+    height: 200px;
+    text-align: right;
+}
+.a4{
+    float: right;
+    width:78.6% ;
+}
+.s4{
+    border-left: solid 1px !important;
+    border-bottom: solid 1px;
+    height: 20px;
+    width: 78.6%;
+}
+.n4{
+    height: 160px;
+}
+.h4,.h5,.m4,.s4,.n4,.a4,.a5,.h6,.s6,.a6_1,.a6_2,.as6{
+    padding: 5px;
+    text-align: left;
+
+}
+.n5,.n6{
+    padding: 5px;
+    border-bottom: solid 1px;
+    height: 30px;
+}
+.s5{
+   padding: 5px; 
+}
+.a5{
+    margin: 5px;
+    border: solid 1px;
+    height: 100px;
+}
+.a6{
+    margin-top: 25px;
+  
+    float: left;
+    width: 50%;
+    height: 160px;
+}
+.a6_1{
+    float: left;
+    margin: 5px;
+    border: solid 1px;
+    height: 65px;
+    width: 100%;
+    background-color: bisque;
+}
+.a6_2{
+   margin-top: 67px;
+   margin-left: 5px;
+   margin-right: 0px;
+    border: solid 1px;
+    border-top: solid 0px !important;
+    height: 80px;
+    width: 100%;
+    background-color: beige;
+}
+.as6{
+    float: right;
+    border-left:solid 1px ;
+    margin-bottom: 10px;
+    height: 190px;
+    width: 40%;
+}
+.s6{
+    float: left;
+}
+.layout2{
+    background-color: aquamarine;
+}
+.layout3{
+    background-color: gold;
+}
+.layout4{
+    background-color: blue;
+}
+.a4{
+    
+    background-color: bisque;
+    height: 150px;
+}
+.layout5{
+    background-color: greenyellow;
+}
+.a5{
+    background-color: bisque;
+}
+.layout6{
+    background-color: yellow;
+}
